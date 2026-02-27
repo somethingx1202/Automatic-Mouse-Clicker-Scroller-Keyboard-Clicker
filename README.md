@@ -91,3 +91,7 @@ To work on this project or run the tests:
 pip install -r requirements-dev.txt
 pytest tests/ -v
 ```
+
+## Contributors
+
+- [@gemini-cli](https://github.com/google/gemini-cli)
