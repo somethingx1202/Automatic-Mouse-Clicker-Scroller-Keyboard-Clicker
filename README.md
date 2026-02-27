@@ -8,14 +8,14 @@
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge" alt="MIT License"></a>
 </p>
 
-<p align="center">
-  <img src="UI.png" alt="Application User Interface" width="600" />
-</p>
-
 **My Automatic Mouse Clicker, Scroller, Keyboard Clicker** is an opensource _personal macro automation tool_ you run on your Windows device.
 It allows you to record complex sequences of mouse clicks, scroll events, and keyboard inputs, and replay them flawlessly whenever you need.
 
 If you want a simple, local, and reliable macro recorder that gets out of your way, this is it.
+
+<p align="center">
+  <img src="UI.png" alt="Application User Interface" width="300" />
+</p>
 
 ## Install (recommended)
 
