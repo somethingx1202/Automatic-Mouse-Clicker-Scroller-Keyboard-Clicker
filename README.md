@@ -94,4 +94,5 @@ pytest tests/ -v
 
 ## Contributors
 
-- [@gemini-cli](https://github.com/google/gemini-cli)
+- [@somethingx1202](https://github.com/somethingx1202)
+- [@gemini-cli](https://github.com/apps/gemini-cli)
