@@ -17,8 +17,7 @@ If you want a simple, local, and reliable macro recorder that gets out of your w
   <img src="UI.png" alt="Application User Interface" width="300" />
 </p>
 
-## Install (recommended)
-
+## Quick start (TL;DR)
 Runtime: **Python 3.10+**.
 
 ```bash
@@ -26,8 +25,6 @@ git clone https://github.com/somethingx1202/Automatic-Mouse-Clicker-Scroller-Key
 cd Automatic-Mouse-Clicker-Scroller-Keyboard-Clicker
 pip install -r requirements.txt
 ```
-
-## Quick start (TL;DR)
 
 Start the application:
 
