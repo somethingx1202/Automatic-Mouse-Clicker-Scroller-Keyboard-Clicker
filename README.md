@@ -22,8 +22,8 @@ If you want a simple, local, and reliable macro recorder that gets out of your w
 Runtime: **Python 3.10+**.
 
 ```bash
-git clone https://github.com/yourusername/my_automatic_mouse_clicker.git
-cd my_automatic_mouse_clicker
+git clone https://github.com/somethingx1202/Automatic-Mouse-Clicker-Scroller-Keyboard-Clicker.git
+cd Automatic-Mouse-Clicker-Scroller-Keyboard-Clicker
 pip install -r requirements.txt
 ```
 
